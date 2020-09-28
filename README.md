@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+</br>
+Hello, I'm Rangga Dikarinata, a recent graduate from computer engineering. I am also former android developer intern at PT. CNE. Besides programming, I love playing with cat and reading wuxia and xinxia novels.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 
-<!--
-**radikz/radikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me:**
+- 🌱 I’m currently learning kotlin and dart
+- 📫 I'd love to connect with you on  <a href="https://www.linkedin.com/in/rangga-dikarinata/">
+  <img alt="Rangga's linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radikz&layout=compact" />
+</a>
