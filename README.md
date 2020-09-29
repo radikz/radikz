@@ -1,6 +1,6 @@
 ### Hi there 👋 
 </br>
-Hello, I'm Rangga Dikarinata, a recent graduate from computer engineering. I am also former android developer intern at PT. CNE. Besides programming, I love playing with cat and reading wuxia and xinxia novels.
+Hello, I'm Rangga Dikarinata, a recent graduate from computer engineering. I am also former android developer intern at PT. CNE. Besides programming, I love playing with cat and reading chinese novels.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 
 **About Me:**
