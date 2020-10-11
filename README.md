@@ -9,6 +9,5 @@ Hello, I'm Rangga Dikarinata, a recent graduate from computer engineering. I am 
   <img alt="Rangga's linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </br>
-<a href="https://github.com/radikz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radikz&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radikz)](https://github.com/radikz/radikz)
+
