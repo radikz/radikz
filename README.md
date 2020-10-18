@@ -10,5 +10,5 @@ Hello, I'm Rangga Dikarinata, a recent graduate from computer engineering. I am 
 </a>
 </br>
 <a href="https://github.com/radikz/radikz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radikz&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radikz&layout=compact&langs_count=6" />
 </a>
